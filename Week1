@@ -1,0 +1,31 @@
+<!--Zachary Hastings-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Creative Minds
+    </title>
+</head>
+<body>
+    <link rel="stylesheet" type="text/css" href="first.css">
+    <img src="creativemindslogo.png" style="width:500px;height:600;">
+    
+    <h1>Creative Minds</h1>
+    <h4>About Us</h4>
+    <p>
+        Family owned crafting business that makes custom t-shirts and 3D printed produts.
+        We started out just crafting and found the love in making our product. We then decided to expand our horizon and build a buisness.
+
+    </p>
+
+        <b>Contact Info</b>
+    <p>creativemindes.llc2021@gmail.com</p>
+    <input type="button" value="Click Me!!" onclick="alert('Thank You For Choosing Creative Minds')" 
+</body>
+
+
+
+</html>
